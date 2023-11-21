@@ -113,12 +113,14 @@ header h1 {
 }
 
 #about h1 {
-	padding-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	padding-top: 3%;
+	font: 24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 3px;
+	letter-spacing: 1px;
 	color: black;
 	text-align: center;
+	font-weight: 400 !important;
+	
 }
 
 .foto img {
@@ -164,7 +166,6 @@ header h1 {
 .project-title-settings {
 	margin-top: 5%;
 	font: 18px/24px 'opensans-bold', sans-serif;
-	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
 	text-align: center;
@@ -385,13 +386,14 @@ header h1 {
 }
 
 .section-title {
-	padding-top: 5%;
-	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
-	text-transform: uppercase;
-	letter-spacing: 3px;
-	color: #fff;
-	text-align: center;
+	padding-top: 3%;
+	padding-bottom: 3%;
+		font: 24px 'opensans-bold', sans-serif;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		color: black;
+		text-align: center;
+		font-weight: 400 !important;
 }
 
 .skill-icon {

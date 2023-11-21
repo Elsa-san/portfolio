@@ -66,52 +66,132 @@
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "React"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Nina Carducci",
+        "startDate": "2023",
+        "description": " Création d'un site de photographe en HTML, CSS et JavaScript, avec une attention particulière portée sur l'amélioration des performances, de l'accessibilité et du référencement. Ce projet offre une expérience utilisateur fluide, un accès facile pour tous et une visibilité optimale sur les moteurs de recherche.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Nina Carducci",
+        "startDate": "2023",
+        "description": " Création d'un site de photographe en HTML, CSS et JavaScript, avec une attention particulière portée sur l'amélioration des performances, de l'accessibilité et du référencement. Ce projet offre une expérience utilisateur fluide, un accès facile pour tous et une visibilité optimale sur les moteurs de recherche.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Nina Carducci",
+        "startDate": "2023",
+        "description": " Création d'un site de photographe en HTML, CSS et JavaScript, avec une attention particulière portée sur l'amélioration des performances, de l'accessibilité et du référencement. Ce projet offre une expérience utilisateur fluide, un accès facile pour tous et une visibilité optimale sur les moteurs de recherche.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "React"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Openclassrooms",
         "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "years": "2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
+          "React",
+          "Css",
+          "HTML",
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Wecasa",
+        "title": "Product Manager",
+        "years": "2017-2023",
         "mainTech": [
-          "Angular 7/8"
+          "Product Management"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Méthodes agile",
+          "Scrum",
+          "Kanban"
+        ]
+      },
+      {
+        "company": "Campings.com",
+        "title": "Product Manager",
+        "years": "2014-2017",
+        "mainTech": [
+          "Product Management"
+        ],
+        "technologies": [
+          "Méthodes agile",
+          "Scrum",
+          "Kanban"
         ]
       }
     ]
