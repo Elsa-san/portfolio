@@ -1,24 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello",
+      "description": " Ex Product Manager, j'ai décidé de me former au code et à React après avoir travaillé plusieurs années aux côtés de développeurs talentueux.",
       "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "about": "A propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Kasa",
+        "startDate": "2023",
+        "description": "Réalisation d'un site web complet pour une agence de location en utilisant React.js, Sass et des fonctionnalités avancées telles qu'un carrousel et l'affichage des profils des propriétaires. Ce projet offre une expérience utilisateur interactive et immersive en permettant aux utilisateurs de parcourir les offres de location, de visualiser des images attrayantes dans des carrousels et de découvrir les profils détaillés des propriétaires.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/Elsa-san/kasa",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "ArgentBank",
+        "startDate": "2023",
+        "description": "Ce projet consiste à développer une application web complète et responsive pour l'authentification des utilisateurs en utilisant React et Redux. ",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Nina Carducci",
+        "startDate": "2023",
+        "description": " Création d'un site de photographe en HTML, CSS et JavaScript, avec une attention particulière portée sur l'amélioration des performances, de l'accessibilité et du référencement. Ce projet offre une expérience utilisateur fluide, un accès facile pour tous et une visibilité optimale sur les moteurs de recherche.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
