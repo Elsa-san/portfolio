@@ -11,27 +11,22 @@
     },
     "projects": [
       {
-        "title": "Ohmyfood",
+        "title": "ArgentBank",
         "startDate": "2023",
-        "description": "Creation of a presentation of upmarket restaurants using HTML, Sass and animations. This project highlights the refined atmosphere of the establishments, offering an immersive visual experience to make customers want to order."
-,
+        "description": "This project involves developing a complete, responsive web application for user authentication using React and Redux.",
         "images": [
-          "images/portfolio/ohmyfood/p1.jpg",
-          "images/portfolio/ohmyfood/p2.jpg"
+          "images/portfolio/argentbank/p1.jpg",
+          "images/portfolio/argentbank/p2.jpg"
         ],
-        "url": "https://elsa-san.github.io/Ohmyfood/",
+        "url": "https://github.com/Elsa-san/argentbank",
         "technologies": [
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-sass-original",
-            "name": "SASS"
-          },
-            {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -54,24 +49,29 @@
             "name": "JavaScript"
           }
         ]
-      },
-      {
-        "title": "ArgentBank",
+      }
+            {
+        "title": "Ohmyfood",
         "startDate": "2023",
-        "description": "This project involves developing a complete, responsive web application for user authentication using React and Redux.",
+        "description": "Creation of a presentation of upmarket restaurants using HTML, Sass and animations. This project highlights the refined atmosphere of the establishments, offering an immersive visual experience to make customers want to order."
+,
         "images": [
-          "images/portfolio/argentbank/p1.jpg",
-          "images/portfolio/argentbank/p2.jpg"
+          "images/portfolio/ohmyfood/p1.jpg",
+          "images/portfolio/ohmyfood/p2.jpg"
         ],
-        "url": "https://github.com/Elsa-san/argentbank",
+        "url": "https://elsa-san.github.io/Ohmyfood/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-sass-original",
+            "name": "SASS"
+          },
+            {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }

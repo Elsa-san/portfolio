@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import reactIcon from "@iconify/icons-logos/react";
+import javascriptIcon from "@iconify/icons-logos/javascript";
+import sassIcon from "@iconify/icons-logos/sass";
+
 
 class About extends Component {
   render() {
@@ -30,6 +33,14 @@ class About extends Component {
                   />
                   <Icon
                     icon={reactIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                   <Icon
+                    icon={javascriptIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={sassIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
