@@ -82,7 +82,7 @@
         "title": "Front-End Developer",
         "years": "2023",
         "mainTech": [
-          "React"
+          "Development"
         ],
         "technologies": [
           "React",
@@ -117,6 +117,17 @@
           "Méthodes agile",
           "Scrum",
           "Kanban"
+        ]
+      },
+      {
+        "company": "Hôpital",
+        "title": "Juriste",
+        "years": "Before 2014",
+        "mainTech": [
+          "Droit des biotechnologies"
+        ],
+        "technologies": [
+          "None"
         ]
       }
     ]
