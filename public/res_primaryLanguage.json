@@ -74,6 +74,77 @@
             "name": "CSS"
           }
         ]
+      },
+      {
+        "title": "Nina Carducci",
+        "startDate": "2023",
+        "description": "Création d'un site de photographe en HTML, CSS et JavaScript, avec une attention particulière portée sur l'amélioration des performances, de l'accessibilité et du référencement. Ce projet offre une visibilité optimale sur les moteurs de recherche ainsi qu'une expérience fluide pour l'utilisateur."
+,
+        "images": [
+          "images/portfolio/nina/p1.jpg",
+          "images/portfolio/ohmyfood/p2.jpg"
+        ],
+        "url": "https://elsa-san.github.io/ninacarducci/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+            {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+           {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "724events",
+        "startDate": "2023",
+        "description": "L'objectif de ce projet était de déboguer et finaliser le site web, qui avait été partiellement intégré par un développeur précédent. Le site est maintenant entièrement fonctionnel et prêt à être publié. Le code source a été soigneusement révisé pour résoudre tous les problèmes et bugs qui entravaient l'expérience des visiteurs."
+,
+        "images": [
+          "images/portfolio/events/p1.jpg",
+          "images/portfolio/ohmyfood/p2.jpg"
+        ],
+        "url": "https://elsa-san.github.io/Ohmyfood/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+            {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Sophie Bluel",
+        "startDate": "2023",
+        "description": "Création d'un site d'architecte avec une gestion d'administrateur en JavaScript. Ce projet offre à l'architecte la possibilité d'ajouter et de supprimer ses travaux via une API, facilitée par l'utilisation de Swagger. De plus, le site est optimisé dynamiquement pour garantir une expérience utilisateur fluide."
+,
+        "images": [
+          "images/portfolio/bluel/p1.jpg",
+          "images/portfolio/ohmyfood/p2.jpg"
+        ],
+        "url": "https://github.com/Elsa-san/ArchiWebos",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+            {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
       }
     ],
     "experience": [
