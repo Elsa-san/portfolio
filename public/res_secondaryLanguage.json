@@ -3,7 +3,7 @@
       "description_header": "Hello",
       "description": "As a Product Manager for 7 years, I decided to learn React after working for several years alongside talented developers. My experience of the product has made me particularly sensitive to the user experience and respect for Figma mock-ups.",
       "section_name": {
-        "about": "About",
+        "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"
@@ -13,7 +13,7 @@
       {
         "title": "ArgentBank",
         "startDate": "2023",
-        "description": "This project involves developing a complete, responsive web application for user authentication using React and Redux.",
+        "description": "This project involves developing a complete, responsive web application for user authentication using React and Redux. ",
         "images": [
           "images/portfolio/argentbank/p1.jpg",
           "images/portfolio/argentbank/p2.jpg"
@@ -50,10 +50,10 @@
           }
         ]
       },
-            {
+      {
         "title": "Ohmyfood",
         "startDate": "2023",
-        "description": "Creation of a presentation of upmarket restaurants using HTML, Sass and animations. This project highlights the refined atmosphere of the establishments, offering an immersive visual experience to make customers want to order."
+        "description": "Creation of a presentation of upmarket restaurants using HTML, Sass and animations. This project highlights the refined atmosphere of the establishments, providing an immersive visual experience to make customers want to order."
 ,
         "images": [
           "images/portfolio/ohmyfood/p1.jpg",
@@ -72,6 +72,77 @@
             {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Nina Carducci",
+        "startDate": "2023",
+        "description": "Creation of a photographer's website in HTML, CSS and JavaScript, with a particular focus on improving performance, accessibility and SEO. This project offers optimum visibility on search engines and a fluid user experience."
+,
+        "images": [
+          "images/portfolio/nina/p1.jpg",
+          "images/portfolio/nina/p2.jpg"
+        ],
+        "url": "https://elsa-san.github.io/ninacarducci/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+            {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+           {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "724events",
+        "startDate": "2023",
+        "description": "The goal of this project was to debug and finalise the website, which had been partially integrated by a previous developer. The site is now fully functional and ready for publication. The source code was carefully revised to resolve all the problems and bugs that were hampering the visitor experience."
+,
+        "images": [
+          "images/portfolio/events/p1.jpg",
+          "images/portfolio/events/p2.jpg"
+        ],
+        "url": "https://elsa-san.github.io/Ohmyfood/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+            {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Sophie Bluel",
+        "startDate": "2023",
+        "description": "Creation of an architect's site with administrator management in JavaScript. This project offers architects the possibility of adding and deleting their work via an API, facilitated by the use of Swagger. In addition, the site is dynamically optimised to ensure a fluid user experience."
+,
+        "images": [
+          "images/portfolio/bluel/p1.jpg",
+          "images/portfolio/bluel/p2.jpg"
+        ],
+        "url": "https://github.com/Elsa-san/ArchiWebos",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+            {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
@@ -118,6 +189,17 @@
           "Agile Methods",
           "Scrum",
           "Kanban"
+        ]
+      },
+      {
+        "company": "Hospital",
+        "title": "Lawyer",
+        "years": "Before 2014",
+        "mainTech": [
+          "Healthcare law"
+        ],
+        "technologies": [
+          "Law"
         ]
       }
     ]
