@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": " Product Manager pendant 7 ans, j'ai décidé de me former au code après avoir travaillé plusieurs années aux côtés de développeurs talentueux. Mon expérience au produit m’a permis d’être particulièrement sensible à l’expérience utilisateur et au respect des maquettes.",
+      "description": " Product Manager pendant 7 ans, j'ai décidé de me former au code après avoir travaillé plusieurs années aux côtés de développeurs talentueux. Mon expérience au produit m’a permis d’être particulièrement sensible à l’expérience utilisateur et au respect des maquettes. Pendant ma formation de 9 mois chez Openclassrooms, j'ai pu travailler sur plus de dix projets différents, tous très concrets : les cas que j'ai abordé pourraient être ceux d'une entreprise classique ou d'une start-up d'aujourd'hui. Je suis également curieuse et autonome de nature et le développement web est pour moi l'opportunité idéale pour apprendre chaque jour et de mettre à profit ces compétences. ",
       "section_name": {
         "about": "A propos de moi",
         "projects": "Projets",
@@ -13,7 +13,7 @@
       {
         "title": "ArgentBank",
         "startDate": "2023",
-        "description": "Ce projet consiste à développer une application web complète et responsive pour l'authentification des utilisateurs en utilisant React et Redux. ",
+        "description": "Argent Bank est une nouvelle banque en ligne qui souhaite offrir à ses utilisateurs un dashboard pratique convivial. Dans le cadre de ce projet, j'ai développé une application web complète, réactive et adaptée à tous les appareils en utilisant des technologies telles que React, React Router 6 et les routes protégées (Protected Routes). L'application comprend plusieurs fonctionnalités, notamment l'authentification de l'utilisateur, un dashboard et la gestion de l'état de l'application avec Redux. J'ai également utilisé Swagger pour créer un fichier YAML dédié aux fonctionnalités relatives aux transactions.",
         "images": [
           "images/portfolio/argentbank/p1.jpg",
           "images/portfolio/argentbank/p2.jpg"
@@ -33,7 +33,7 @@
       {
         "title": "Kasa",
         "startDate": "2023",
-        "description": "Kasa est dans le métier de la location d’appartements entre particuliers depuis près de 10 ans. L'entreprise souhaitait faire une refonte totale de son site web en utilisant React. Des composants réutilisables ont être créés pour les onglets ouvrants et le carrousel de photo.",
+        "description": "Kasa est dans le métier de la location d’appartements entre particuliers depuis près de 10 ans. L'entreprise souhaitait faire une refonte totale de son site web, ce qui m'a permis d'utiliser React en framework. Des composants réutilisables ont être créés pour les onglets ouvrants et le carrousel de photo. J'ai également utilisé Figma pour convertir les maquettes en composants et routes React, ce qui m'a permis de garantir une cohérence visuelle tout en développant une interface utilisateur interactive et conviviale.",
         "images": [
           "images/portfolio/kasa/p1.jpg",
           "images/portfolio/kasa/p2.jpg"
@@ -53,7 +53,7 @@
       {
         "title": "Ohmyfood",
         "startDate": "2023",
-        "description": "Réalisation d'une présentation de restaurants hauts de gamme en utilisant HTML, Sass et des animations. Ce projet met en avant l'atmosphère raffinée des établissements, offrant ainsi une expérience visuelle immersive pour que les clients aient envie de commander."
+        "description": "OhMyFood est un site web mobile-first dédié à la présentation des menus proposés par les restaurants gastronomiques. En tant qu'intégratrice web, j'étais chargée de transformer les maquettes fournies par l'équipe de conception en un site web fonctionnel et responsive, adapté aux différents dispositifs tels que les smartphones, tablettes et ordinateurs de bureau. Dans le cadre de ce projet, j'ai également eu pour mission d'intégrer les animations et comportements spécifiés dans le prototype du site pour offrir une expérience utilisateur optimale et attrayante. Cette expérience professionnelle m'a permis de mettre en pratique Sass ainsi que mes compétences en matière d'intégration web, pour livrer un résultat de qualité dans les délais impartis, en respectant les maquettes."
 ,
         "images": [
           "images/portfolio/ohmyfood/p1.jpg",
@@ -78,7 +78,7 @@
       {
         "title": "Nina Carducci",
         "startDate": "2023",
-        "description": "Création d'un site de photographe en HTML, CSS et JavaScript, avec une attention particulière portée sur l'amélioration des performances, de l'accessibilité et du référencement. Ce projet offre une visibilité optimale sur les moteurs de recherche ainsi qu'une expérience fluide pour l'utilisateur."
+        "description": "Ce projet avait pour objectif de proposer à Nina Carducci, photographe, une optimisation SEO pour lui donner davantage de visibilité. J'ai travaillé sur plusieurs aspects pour améliorer les performances de référencement de son site comme : l'ajout de métadonnées appropriées pour les réseaux sociaux, des optimisations techniques en termes de code et de structure du site pour améliorer son accessibilité aux moteurs de recherche, des optimisations d'images pour réduire leur taille sans compromettre leur qualité ou encore des améliorations concernant l'accessibilité. J'ai fourni un rapport complet d'optimisation ainsi que le code révisé pour permettre à Nina de mettre en œuvre les recommandations sur ces points là. "
 ,
         "images": [
           "images/portfolio/nina/p1.jpg",
@@ -124,7 +124,7 @@
       {
         "title": "Sophie Bluel",
         "startDate": "2023",
-        "description": "Création d'un site d'architecte avec une gestion d'administrateur en JavaScript. Ce projet offre à l'architecte la possibilité d'ajouter et de supprimer ses travaux via une API, facilitée par l'utilisation de Swagger. De plus, le site est optimisé dynamiquement pour garantir une expérience utilisateur fluide."
+        "description": "En tant qu'intégratrice web, j'ai travaillé sur le développement du site portfolio d'une architecte d'intérieur, Sophie Bluel. Ma mission consistait à concevoir la partie front-end du site avec Javascript. Je devais récupérer les travaux de l'architecte depuis une API et les intégrer dans une galerie dynamique. J'ai également conçu une page de connexion sécurisée pour permettre aux utilisateurs d'accéder à l'interface d'administration du site. J'ai également implémenté des fonctionnalités pour permettre aux utilisateurs connectés de supprimer ou ajouter des travaux sans avoir besoin de recharger la page. Mon travail a permis d'améliorer l'expérience utilisateur et de rendre le site plus interactif."
 ,
         "images": [
           "images/portfolio/bluel/p1.jpg",
