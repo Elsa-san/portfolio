@@ -150,10 +150,10 @@
     "experience": [
       {
         "company": "Openclassrooms",
-        "title": "Front-End Developer",
+        "title": "Développeuse Front-End",
         "years": "2023",
         "mainTech": [
-          "Development"
+          "Développement "
         ],
         "technologies": [
           "React",
@@ -161,8 +161,10 @@
           "HTML",
           "REST API",
           "JavaScript",
+          "SASS",
           "Bootstrap",
-          "Redux"
+          "Redux",
+          "Intégration"
         ]
       },
       {
@@ -175,7 +177,8 @@
         "technologies": [
           "Méthodes agile",
           "Scrum",
-          "Kanban"
+          "Kanban",
+          "Figma"
         ]
       },
       {
@@ -196,10 +199,10 @@
         "title": "Juriste",
         "years": "Before 2014",
         "mainTech": [
-          "Droit des biotechnologies"
+          "Droit de la santé"
         ],
         "technologies": [
-          "None"
+          "Droit des biotechnologies"
         ]
       }
     ]
