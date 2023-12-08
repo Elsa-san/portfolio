@@ -156,14 +156,18 @@
           "React"
         ],
         "technologies": [
-          "React",
-          "Css",
           "HTML",
+          "CSS",
+          "React",
           "REST API",
           "JavaScript",
+          "SASS",
           "Bootstrap",
           "Redux",
-          "SASS"
+          "Intégration",
+          "Swagger",
+          "Github",
+          "Git"
         ]
       },
       {
@@ -177,7 +181,10 @@
           "Agile Methods",
           "Scrum",
           "Kanban",
-          "Figma"
+          "Figma",
+          "Jira",
+          "Shortcut",
+          "QA"
         ]
       },
       {
@@ -190,7 +197,9 @@
         "technologies": [
           "Agile Methods",
           "Scrum",
-          "Kanban"
+          "Kanban",
+          "Jira",
+          "QA"
         ]
       },
       {

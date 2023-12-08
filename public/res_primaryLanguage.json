@@ -6,7 +6,7 @@
         "about": "A propos de moi",
         "projects": "Projets",
         "skills": "Compétences",
-        "experience": "Expérience"
+        "experience": "Expériences"
       }
     },
     "projects": [
@@ -156,15 +156,18 @@
           "Développement "
         ],
         "technologies": [
-          "React",
-          "Css",
           "HTML",
+          "CSS",
+          "React",
           "REST API",
           "JavaScript",
           "SASS",
           "Bootstrap",
           "Redux",
-          "Intégration"
+          "Intégration",
+          "Swagger",
+          "Github",
+          "Git"
         ]
       },
       {
@@ -175,10 +178,13 @@
           "Product Management"
         ],
         "technologies": [
-          "Méthodes agile",
+          "Méthodes agiles",
           "Scrum",
           "Kanban",
-          "Figma"
+          "Figma",
+          "Jira",
+          "Shortcut",
+          "QA"
         ]
       },
       {
@@ -191,7 +197,9 @@
         "technologies": [
           "Méthodes agile",
           "Scrum",
-          "Kanban"
+          "Kanban",
+          "Jira",
+          "QA"
         ]
       },
       {
